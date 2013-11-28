@@ -36,3 +36,9 @@ upcoming
 other arbitrary coordination?
 
 rolling deploy?
+
+caveats
+=======
+reins is not yet tested in production
+
+project dependencies on caribou and clojure are intentionally absent, because it is assumed that you are using reins as a plugin extension to an existing caribou project which would already have these libs present
