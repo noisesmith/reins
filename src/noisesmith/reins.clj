@@ -23,5 +23,5 @@
         reverse-cache (gen-key "reverse-cache")
         rein-in (reins host)]
     {:models (rein-in model)
-     :query {:queries (rein-in queris)
+     :query {:queries (rein-in queries)
              :reverse-cache (rein-in reverse-cache)}}))

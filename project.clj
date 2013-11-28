@@ -1,4 +1,4 @@
-(defproject noisesmith/reins "0.0.0"
+(defproject noisesmith/reins "0.0.1"
   :description "An extension to coordinate many caribou so as to pull your sled to glory."
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [avout "0.5.4"]
